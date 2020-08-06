@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "zoomin": {
@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "zoomin"
+    }
+  },
+  "defaultProject": "zoomin",
+  "cli": {
+    "analytics": "cbdd007f-849c-4de2-b9b9-d4b4e228e462"
+  }
 }
